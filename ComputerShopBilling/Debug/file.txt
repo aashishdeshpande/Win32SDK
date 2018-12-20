@@ -1,0 +1,20 @@
+
+
+
+	-----------------------------------------------Receipt-------------------------------------------------
+
+	01]processor :----SELECT----		CoreGeneartion :		Version :		Cost :
+
+	02]Graphics card :		Subtype :		Cost :
+
+	03]Ram :		Szie :		Cost :
+
+	04]tMotherBoard :		Company :		Cost :
+
+	05]Keyboard :		Cost :
+
+	06]HardDisk :		HardDisk Size :		Cost :
+
+	07]Mouse :		Type :		Cost :
+
+	08]Smps :		Company :		Cost :

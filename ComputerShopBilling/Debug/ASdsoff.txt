@@ -1,0 +1,30 @@
+
+
+
+	---------------------------------------------------------Receipt-----------------------------------------------------------
+
+	Time:21:16:52									Date:Wed,Sep 05 18
+
+	01]processor :AMD		CoreGeneartion :BOBCAT		Version :Zacate		Cost :825
+
+	02]Graphics card :---	Subtype :---						Cost :---
+
+	03]Ram :---			Size :---							Cost :---
+
+	04]MotherBoard :Asus		Company :Asus Intel B85M-G					Cost :5789
+
+	05]Keyboard :---										Cost :---
+
+	06]HardDisk :---	HardDisk Size :---						Cost :---
+
+	07]Mouse :---		Type :---							Cost :---
+
+	08]Smps :---		Company :---						Cost :---
+
+	09]Speaker :---		Company :---						Cost :---
+
+	10]Pendrive :---		Size :---						Cost :---
+
+	11]Cabinet :---						Cost :---
+
+	12]Fan :---						Cost :---

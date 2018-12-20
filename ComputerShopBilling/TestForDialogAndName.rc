@@ -1,0 +1,27 @@
+#include <windows.h>
+#include "TestForDialogAndCombo.h"
+
+CustomerName DIALOG DISCARDABLE 0,0,250,80
+STYLE DS_MODALFRAME | DS_CENTER | WS_CAPTION
+CAPTION "CustomerName"
+
+BEGIN 
+
+	LTEXT "Name  :", -1,35,10,30,10
+	EDITTEXT ID_ETNAME, 70,10,150,10,WS_TABSTOP
+
+
+	PUSHBUTTON "Ok",IDCustomerName,100,50,25,10
+END
+
+
+
+
+
+
+
+
+
+
+
+

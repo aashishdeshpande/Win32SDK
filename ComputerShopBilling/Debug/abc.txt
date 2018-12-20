@@ -1,0 +1,20 @@
+
+
+
+	-----------------------------------------------Receipt-------------------------------------------------
+
+	01]processor :INTEL		CoreGeneartion :Core i3		Version :Haswell		Cost :200
+
+	02]Graphics card :		Subtype :		Cost :
+
+	03]Ram :Corsair		Szie :4GB		Cost :3000
+
+	04]tMotherBoard :		Company :		Cost :
+
+	05]Keyboard :		Cost :
+
+	06]HardDisk :Western Digital		HardDisk Size :1TB		Cost :3500
+
+	07]Mouse :		Type :		Cost :
+
+	08]Smps :		Company :		Cost :

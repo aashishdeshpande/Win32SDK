@@ -1,0 +1,30 @@
+
+
+
+	---------------------------------------------------------Receipt-----------------------------------------------------------
+
+	Time:19:36:9									Date:Sun,Sep 02 18
+
+	01]processor :INTEL		CoreGeneartion :Core i7		Version :Broadwell		Cost :900
+
+	02]Graphics card :NVIDIA	Subtype :Geforce 820M						Cost :200
+
+	03]Ram :---			Size :---							Cost :---
+
+	04]MotherBoard :---		Company :---					Cost :---
+
+	05]Keyboard :LOGITECH										Cost :2000
+
+	06]HardDisk :---	HardDisk Size :---						Cost :---
+
+	07]Mouse :---		Type :---							Cost :---
+
+	08]Smps :---		Company :---						Cost :---
+
+	09]Speaker :---		Company :---						Cost :---
+
+	10]Pendrive :---		Size :---						Cost :---
+
+	11]Cabinet :Zebronics						Cost :6500
+
+	12]Fan :---						Cost :---

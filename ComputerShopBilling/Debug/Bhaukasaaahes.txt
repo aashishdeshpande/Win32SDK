@@ -1,0 +1,30 @@
+
+
+
+	---------------------------------------------------------Receipt-----------------------------------------------------------
+
+	Time:2:26:58									Date:Tue,Jul 03 18
+
+	01]processor :INTEL		CoreGeneartion :Core i3		Version :Haswell		Cost :200
+
+	02]Graphics card :NVIDIA	Subtype :Geforce 820M						Cost :200
+
+	03]Ram :Corsair			Size :8GB							Cost :4000
+
+	04]MotherBoard :Asus		Company :Asus Intel B85M-G					Cost :5789
+
+	05]Keyboard :LOGITECH										Cost :2000
+
+	06]HardDisk :Western Digital	HardDisk Size :1TB						Cost :3500
+
+	07]Mouse :Logitech		Type :Wireless							Cost :950
+
+	08]Smps :Corsair		Company :Corsair RM750						Cost :8700
+
+	09]Speaker :Jbl		Company :Arena 170						Cost :5500
+
+	10]Pendrive :SandDisk		Size :32gb						Cost :1500
+
+	11]Cabinet :Zebronics						Cost :6500
+
+	12]Fan :Corsair						Cost :7500

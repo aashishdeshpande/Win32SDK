@@ -1,0 +1,30 @@
+
+
+
+	---------------------------------------------------------Receipt-----------------------------------------------------------
+
+	Time:19:43:1									Date:Tue,Jul 03 18
+
+	01]processor :INTEL		CoreGeneartion :----SELECT----		Version :---		Cost :---
+
+	02]Graphics card :NVIDIA	Subtype :---						Cost :---
+
+	03]Ram :Corsair			Size :---							Cost :---
+
+	04]MotherBoard :---		Company :---					Cost :---
+
+	05]Keyboard :---										Cost :---
+
+	06]HardDisk :---	HardDisk Size :---						Cost :---
+
+	07]Mouse :---		Type :---							Cost :---
+
+	08]Smps :---		Company :---						Cost :---
+
+	09]Speaker :---		Company :---						Cost :---
+
+	10]Pendrive :---		Size :---						Cost :---
+
+	11]Cabinet :---						Cost :---
+
+	12]Fan :---						Cost :---
