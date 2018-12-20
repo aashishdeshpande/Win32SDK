@@ -1,0 +1,9 @@
+BOYLE'S LAW:-
+Number Of Moles[n]:123
+Value of Incerement/Decrement Constant:4
+Value of Constant Temperature[T]:50
+Value of Pressure[P]:1.000235
+Value of Volume[V]:51121.929
+
+
+Log File for boyle's law Is Successfully Closed.

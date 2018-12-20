@@ -1,0 +1,6 @@
+No. of Moles are 0
+Const Temp is 0
+inc/dec const is 0.000000
+pressure is 1.000000
+Inc/dec constant is 0.000000
+Log File Is Successfully Closed.
