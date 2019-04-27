@@ -1,0 +1,144 @@
+#define  ID_OK 100
+
+#define  ID_CANCEL 101
+
+#define ID_GROUPBOX1 102
+
+#define ID_GROUPBOX2 103
+
+#define ID_GROUPBOX3 300
+
+#define ID_RBBOYLESLAW 104
+
+#define ID_RBCHARLESLAW 105
+
+#define ID_BOYLETMOLES 106
+
+#define ID_BOYLETCONSTANT 107
+
+#define ID_BOYLETTEMPERATURE 108
+
+#define ID_BOYLETVOLUME 109
+
+#define ID_BOYLETPRESSURE 110
+
+#define ID_BOYLEPRESSUREINC 111
+
+#define ID_BOYLEPRESSUREDEC 112
+
+#define ID_BOYLEVOLUMEINC 113
+
+#define ID_BOYLEVOLUMEDEC 114
+
+#define ID_BOYLESAVESTATE 115
+
+#define ID_BOYLERESET 116
+
+#define ID_CHARLETMOLES 117
+
+#define ID_CHARLETCONSTANT 118
+
+#define ID_CHARLETPRESSURE 119
+
+#define ID_CHARLETVOLUME 120
+
+#define ID_CHARLVOLUMEINC 121
+
+#define ID_CHARLVOLUMEDEC 122
+
+#define ID_CHARLETTEMPERATURE 123
+
+#define ID_CHARLTEMPINC 124
+
+#define ID_CHARLTEMPDEC 125
+
+#define ID_CHARLSAVESTATE 126
+
+#define ID_CHARLRESET 127
+
+#define ID_Image 128
+
+#define ID_ImageD 129
+
+//Maths
+#define ID_FIRSTREAL 150
+
+#define ID_SECONDREAL 151
+
+#define ID_FIRSTIMG 152
+
+#define ID_SECONDIMG 153
+
+#define ID_RESULT 154
+
+#define ID_ADD 155
+
+#define ID_SUB 156
+
+#define ID_MUL 157
+
+#define ID_DIV 158
+
+//Physics
+
+#define ID_MASS 200
+
+#define ID_KEVOLUME 201
+
+#define ID_KE 202
+
+#define ID_CALCULATEKE 203
+
+#define ID_PEHEIGHT 204
+
+#define ID_CALCULATEPE 205
+
+#define ID_PE 206
+
+#define ID_SELECTPE 207
+
+#define ID_SELECTKE 208
+
+
+//Chemistry
+
+#define ID_RBCHEMISTRY 400
+
+#define ID_CENERGY 401
+
+#define ID_CMASS 402
+
+#define ID_CDELTATEMP 403
+
+#define ID_CSPECIFICHEAT 404
+
+#define ID_RBCSPECIFICHEAT 405
+
+#define ID_RESET 406
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

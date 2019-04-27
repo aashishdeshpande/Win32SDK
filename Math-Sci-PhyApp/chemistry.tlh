@@ -1,0 +1,64 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.23506.0 (f753cb7c).
+//
+// e:\sirtechnologies\com\win32sdkbatch2018repeat\intermediatedllforspecificheatccw\debug\chemistry.tlh
+//
+// C++ source equivalent of Win32 type library Chemistry.tlb
+// compiler-generated file created 12/16/18 at 11:48:09 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("3d39534d-e756-3b28-ad7b-af4fc8b20ab1"))
+/* LIBID */ __Chemistry;
+struct __declspec(uuid("03a37b08-72fa-3c75-a033-d213db241715"))
+/* dual interface */ IChemistry;
+struct /* coclass */ Cemistry;
+struct __declspec(uuid("b7ba7b88-fade-360f-b072-bd0491a9d57e"))
+/* dual interface */ _Cemistry;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IChemistry, __uuidof(IChemistry));
+_COM_SMARTPTR_TYPEDEF(_Cemistry, __uuidof(_Cemistry));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("03a37b08-72fa-3c75-a033-d213db241715"))
+IChemistry : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_SpecificHeat (
+        /*[out,retval]*/ float * pRetVal ) = 0;
+      virtual HRESULT __stdcall put_SpecificHeat (
+        /*[in]*/ float pRetVal ) = 0;
+      virtual HRESULT __stdcall CalculateSpecificHeat (
+        /*[in]*/ float energy,
+        /*[in]*/ float mass,
+        /*[in]*/ float deltaT,
+        /*[out,retval]*/ float * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("e461b4ab-e6e3-3941-b7f3-a81850827312"))
+Cemistry;
+    // [ default ] interface _Cemistry
+    // interface _Object
+    // interface IChemistry
+
+struct __declspec(uuid("b7ba7b88-fade-360f-b072-bd0491a9d57e"))
+_Cemistry : IDispatch
+{};
+
+#pragma pack(pop)
